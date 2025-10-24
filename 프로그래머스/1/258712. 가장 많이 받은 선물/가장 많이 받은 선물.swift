@@ -41,7 +41,6 @@ func solution(_ friends:[String], _ gifts:[String]) -> Int {
             if myCount < fCount {
                 bonusDict[me]! += 1    
             }
-            
         }    
     }
     
